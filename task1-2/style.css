@@ -1,0 +1,35 @@
+* {
+	margin: 10;
+	padding: 10
+}
+
+body {
+	background-color: grey;
+	color : white
+}
+
+h1 {
+	font-style: italic
+}
+
+p:first-letter {
+	font-size: 2em
+}
+
+li a {
+	color: green
+}
+
+a:hover {
+	font-weight: bold;
+	font-size: 1.5em
+}
+
+.information {
+	background-color: orange;
+	font-size: 0.8em
+}
+
+#faq:after {
+	content: "THE END"
+}
