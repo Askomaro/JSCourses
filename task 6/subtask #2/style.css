@@ -1,0 +1,24 @@
+table {
+	border: 2px solid grey;
+	margin: 200px auto;
+
+	width: 1000px;
+	height: 200px;
+
+	padding: 5px;
+}
+
+td {
+	border: 2px solid grey;
+	
+}
+
+.focus {
+	border-color: red
+}
+
+tr:hover {
+	border: 2px solid red;
+	
+}
+
